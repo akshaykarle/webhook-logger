@@ -1,5 +1,5 @@
 {
-  description = "webhook";
+  description = "webhook-logger";
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
   };
